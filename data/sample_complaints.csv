@@ -1,1 +1,8 @@
+complaint_id,ward_name,issue_type,timestamp
+1,Rajouri Garden,Drain Blockage,2025-07-10 09:30
+2,Rajouri Garden,Water Stagnation,2025-07-10 10:15
+3,Karol Bagh,Overflow,2025-07-10 11:00
+4,Saket,Drain Blockage,2025-07-10 11:45
+5,Saket,Water Stagnation,2025-07-10 12:30
+6,Saket,Overflow,2025-07-10 13:10
 
